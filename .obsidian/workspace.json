@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "dbcd3dca76bfa560",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ddd8b9f01869dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a31d21427a8b59be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "King's College London/Year 2/5CCS2SEG/Python Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Notes"
+            }
+          },
+          {
+            "id": "5ea16c9551e31c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Django Notes"
+            }
+          },
+          {
+            "id": "f4ecec037d2ba130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MUN/HultMUN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HultMUN"
+            }
+          },
+          {
+            "id": "a623d8de6503b47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Internships.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internships"
+            }
+          },
+          {
+            "id": "e40f70a38cc56f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MUN/MUN CV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MUN CV"
+            }
+          },
+          {
+            "id": "526ad1f1d30c0fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speaker Bios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speaker Bios"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99e6903d7ff83e9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "19acd341c9be8c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4c8dc6f4519fad2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49f88d938adc8339",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "natural",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "166de3e3440dfbab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0daf784cd561807a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83813a67eff9607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1432eb0ff8b97eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "King's College London/Year 2/5CCS2SEG/Python Notes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python Notes"
+            }
+          },
+          {
+            "id": "d169418e029dd5c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "King's College London/Year 2/5CCS2SEG/Python Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python Notes"
+            }
+          },
+          {
+            "id": "085527cde5d0abdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dc8c954896e45017",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ae4d9736a7ddb314",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "King's College London/Year 2/5CCS2SEG/Python Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python Notes"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a623d8de6503b47d",
+  "lastOpenFiles": [
+    "SEG To Do.md",
+    "MUN/MUN CV.md",
+    "Speaker Bios.md",
+    "MUN/HultMUN.md",
+    "Other/scrap.md",
+    "Main.md",
+    "King's College London/Year 1/4CCS1DBS/Design/Normalisation.md",
+    "King's College London/Year 1/4CCS1DBS/4CCS1DBS.md",
+    "King's College London/Year 1/4CCS1DBS/Relational Algebra/Relational Algebra.md",
+    "Other/Interview.md",
+    "Other/Internships.md",
+    "Django Notes.md",
+    "King's College London/Year 2/5CCS2SEG/Python Notes.md",
+    "King's College London/Year 1/4CCS1FC1/Finite Automata.md",
+    "CV Paste.md",
+    "SEG Small Group Project.md",
+    "Concept Note.md",
+    "25 Characters.md",
+    "Question B Part 2.md",
+    "King's College London/Year 2/5CCS2FC2/5CCS2FC2.md",
+    "King's College London/Year 2/5CCS2FC2/Automata and Turing Machines/Regular Expressions and Languages.md",
+    "King's College London/Year 1/4CCS1FC1/Slides/Lecture1.pdf",
+    "King's College London/Year 1/4CCS1FC1/4CCS1FC1.md",
+    "King's College London/Year 1/4CCS1FC1/Sets.md",
+    "King's College London/Year 2/5CCS2FC2/Polynomial Reduction.md",
+    "King's College London/Year 2/5CCS2PEP/Week_5.pdf",
+    "Untitled",
+    "Frog.md",
+    "King's College London/Year 2/5CCS2PEP/C++ Notes.md",
+    "King's College London/Year 2/5CCS2INS/lecture-notes.pdf",
+    "King's College London/Year 1/4CCS1FC1/Slides/Lecture8.pdf",
+    "King's College London/Year 2/5CCS2FC2/Slides/Lecture1a.pdf",
+    "King's College London/Year 1/4CCS1FC1/Slides/Lecture9.pdf",
+    "King's College London/Year 2/5CCS2PEP/Week_3.pdf",
+    "King's College London/Year 2/5CCS2PEP/Week_1.pdf",
+    "King's College London/Year 2/5CCS2PEP/Week_2.pdf",
+    "Pasted image 20240429101650.png",
+    "King's College London/Year 1/4CCS1ISE/SDLC/exampleSDLC.png",
+    "King's College London/Year 1/4CCS1PPA/Pasted image 20231205103330.png"
+  ]
+}
