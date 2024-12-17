@@ -5,6 +5,7 @@ vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.wo.number = true
 vim.o.showmode = false
+vim.opt.clipboard:append("unnamedplus")
 require("config.lazy")
 vim.api.nvim_create_autocmd("VimEnter", {
     callback = function()
