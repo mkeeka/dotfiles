@@ -65,5 +65,7 @@
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 0,
   "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 0.3,
   "anuppuccin-theme-settings@@anp-translucency-opacity": 0.15,
-  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://cdn.discordapp.com/attachments/1169865359357124618/1169865362066653244/mocha-hald8-backiee-277814-landscape.jpg?ex=6711ed05&is=67109b85&hm=4e512fa022efea8a214d56733e12609396240e58dc4e79a115990734be9df7df&\")"
+  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://cdn.discordapp.com/attachments/1169865359357124618/1169865362066653244/mocha-hald8-backiee-277814-landscape.jpg?ex=6711ed05&is=67109b85&hm=4e512fa022efea8a214d56733e12609396240e58dc4e79a115990734be9df7df&\")",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-mauve"
 }

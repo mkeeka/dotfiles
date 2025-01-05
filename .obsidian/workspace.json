@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51ddd8b9f01869dd",
+        "id": "f07eae3a7c2b66ec",
         "type": "tabs",
         "children": [
           {
-            "id": "a31d21427a8b59be",
+            "id": "7597dcffb726fb40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King's College London/Year 2/5CCS2SEG/Python Notes.md",
+                "file": "Technica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Notes"
-            }
-          },
-          {
-            "id": "5ea16c9551e31c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Django Notes"
-            }
-          },
-          {
-            "id": "f4ecec037d2ba130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MUN/HultMUN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HultMUN"
-            }
-          },
-          {
-            "id": "a623d8de6503b47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Internships.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Internships"
-            }
-          },
-          {
-            "id": "e40f70a38cc56f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MUN/MUN CV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MUN CV"
-            }
-          },
-          {
-            "id": "526ad1f1d30c0fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Speaker Bios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Speaker Bios"
+              "title": "Technica"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "natural",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,37 +177,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a623d8de6503b47d",
+  "active": "7597dcffb726fb40",
   "lastOpenFiles": [
-    "SEG To Do.md",
+    "Other/EDC.md",
+    "Other/Photography.md",
+    "Technica.md",
+    "Other/1521-1522 Papal Conclave Crisis.md",
     "MUN/MUN CV.md",
-    "Speaker Bios.md",
-    "MUN/HultMUN.md",
-    "Other/scrap.md",
+    "Other/Gaming/Krunker.md",
+    "Other/Gaming/Pokémon Sapphire.md",
+    "Other/Gaming/SudokuRecords.md",
+    "Other/Internships.md",
+    "King's College London/Year 2/5CCS2SEG/SEG To Do.md",
     "Main.md",
+    "MUN/KCLUNA.md",
+    "MUN/HultMUN.md",
+    "Other/CV Paste.md",
+    "Other/Speaker Bios.md",
+    "King's College London/Year 2/5CCS2SEG/Python Notes.md",
+    "King's College London/Year 2/5CCS2SEG/Django Notes.md",
+    "Other/scrap.md",
     "King's College London/Year 1/4CCS1DBS/Design/Normalisation.md",
     "King's College London/Year 1/4CCS1DBS/4CCS1DBS.md",
     "King's College London/Year 1/4CCS1DBS/Relational Algebra/Relational Algebra.md",
     "Other/Interview.md",
-    "Other/Internships.md",
-    "Django Notes.md",
-    "King's College London/Year 2/5CCS2SEG/Python Notes.md",
     "King's College London/Year 1/4CCS1FC1/Finite Automata.md",
-    "CV Paste.md",
     "SEG Small Group Project.md",
     "Concept Note.md",
     "25 Characters.md",
-    "Question B Part 2.md",
-    "King's College London/Year 2/5CCS2FC2/5CCS2FC2.md",
-    "King's College London/Year 2/5CCS2FC2/Automata and Turing Machines/Regular Expressions and Languages.md",
     "King's College London/Year 1/4CCS1FC1/Slides/Lecture1.pdf",
-    "King's College London/Year 1/4CCS1FC1/4CCS1FC1.md",
-    "King's College London/Year 1/4CCS1FC1/Sets.md",
-    "King's College London/Year 2/5CCS2FC2/Polynomial Reduction.md",
     "King's College London/Year 2/5CCS2PEP/Week_5.pdf",
     "Untitled",
-    "Frog.md",
-    "King's College London/Year 2/5CCS2PEP/C++ Notes.md",
     "King's College London/Year 2/5CCS2INS/lecture-notes.pdf",
     "King's College London/Year 1/4CCS1FC1/Slides/Lecture8.pdf",
     "King's College London/Year 2/5CCS2FC2/Slides/Lecture1a.pdf",
