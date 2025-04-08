@@ -11,6 +11,9 @@ mkdir -p "$HOME/.config" "$HOME/.obsidian"
 
 # Copy dotfiles to appropriate locations
 echo "Copying dotfiles..."
-cp -r "$DOTFILES_DIR"/* "$HOME/"
+cp -r "$DOTFILES_DIR/.config"/* "$HOME/.config/"
+cp -r "$DOTFILES_DIR/.obsidian"/* "$HOME/.obsidian/"
+cp "$DOTFILES_DIR/.zshrc" "$HOME/"
+cp "$DOTFILES_DIR/.gitconfig" "$HOME/"
 
 echo "Dotfiles installation complete!"
