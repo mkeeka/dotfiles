@@ -9,7 +9,6 @@ palette = "catppuccin_mocha"
 [character]
 success_symbol = "[[󰄛](green) ❯](mauve)"
 error_symbol = "[[󰄛](red) ❯](mauve)"
-vimcmd_symbol = "[󰄛 ❮](subtext1)" # For use with zsh-vi-mode
 
 [username]
 show_always = true

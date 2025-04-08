@@ -1,3 +1,6 @@
 # dotfiles
 
-A quick and rough backup of some dotfiles.
+To install run:
+
+```chmod +x install.sh
+./install.sh```
