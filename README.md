@@ -1,8 +1,3 @@
 # dotfiles
 
-To install run:
-
-```
-chmod +x install.sh
-./install.sh
-```
+My personal dotfiles repository. Pay me no mind.
