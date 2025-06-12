@@ -8,7 +8,7 @@ return {
 		},
         config = function()
             local lspconfig = require("lspconfig")
-    		local ensure_installed = { "clangd", "pyright", "jdtls" }
+    		local ensure_installed = {} -- Add your desired LSP servers here, e.g., "pyright", "clangd", etc.
 			require("mason").setup()
 			require("mason-lspconfig").setup({
 				ensure_installed = ensure_installed
