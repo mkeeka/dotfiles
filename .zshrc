@@ -1,6 +1,7 @@
-# Start SSH agent and add key
-eval "$(ssh-agent -s)"
-ssh-add -q ~/.ssh/id_rsa
+ssh_start() {
+	eval "$(ssh-agent -s)"
+	ssh-add --apple-use-keychain ~/.ssh/id_rsa
+}
 
 # Start Starship
 eval "$(starship init zsh)"
